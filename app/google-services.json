@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "136447439148",
+    "firebase_url": "https://agenda-9776e.firebaseio.com",
+    "project_id": "agenda-9776e",
+    "storage_bucket": "agenda-9776e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136447439148:android:1dab5c346c5da81a",
+        "android_client_info": {
+          "package_name": "com.example.contactagenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNupijYg1KC1moFyxrxvhjLRYZ2TbKBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136447439148-k7uhlr0ki7lu83tpdreekn12grg05fjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
